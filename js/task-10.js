@@ -29,15 +29,5 @@ document.addEventListener("DOMContentLoaded",function createBoxes()) {
 
     boxesContainer.appendChild(box);
     size += 10;
-  }
-};
-/* button = document.getElementById("button");
-newBox = document.getElementById("boxes");
-button.onClick = agregarCaja;
-function agregarCaja() {
-  return console.log("sisas");
+  };
 }
-function destroyBoxes() {
-  const boxesContainer = document.querySelector("boxes");
-  boxesContainer.innerHTML = "";
-} */
